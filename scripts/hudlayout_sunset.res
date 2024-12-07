@@ -462,7 +462,7 @@
 		"CornerRadius"								"1"
 		"RightJustify"								"1"
 
-		"TextFont"									"Default"
+		"TextFont"									"Size_12"
 
 		"TeamBlue"									"Blue"
 		"TeamRed"									"Red_Light"

@@ -31,7 +31,7 @@
 		"enabled"									"1"
 		"textAlignment"								"east"
 		"labelText"									"%Ammo%"
-		"font"										"Size_40"
+		"font"										"Size_56"
 		"font_minmode"								"Size_50"
 		"fgcolor"									"Ammo_In_Clip"
 
@@ -54,7 +54,7 @@
 		"enabled"									"1"
 		"textAlignment"								"east"
 		"labelText"									"%Ammo%"
-		"font"										"Size_40"
+		"font"										"Size_56"
 		"font_minmode"								"Size_50"
 		"fgcolor"									"Shadows"
 
@@ -76,7 +76,7 @@
 		"enabled"									"1"
 		"textAlignment"								"west"
 		"labelText"									"%AmmoInReserve%"
-		"font"										"Size_20"
+		"font"										"Size_28"
 		"font_minmode"								"Size_24"
 		"fgcolor"									"Ammo_In_Reserve"
 
@@ -99,7 +99,7 @@
 		"enabled"									"1"
 		"textAlignment"								"west"
 		"labelText"									"%AmmoInReserve%"
-		"font"										"Size_20"
+		"font"										"Size_28"
 		"font_minmode"								"Size_24"
 		"fgcolor"									"Shadows"
 
@@ -113,7 +113,7 @@
 		"xpos"										"0"
 		"ypos"										"0"
 		"zpos"										"5"
-		"wide"										"80"
+		"wide"										"85"
 		"wide_minmode"								"120"
 		"tall"										"50"
 		"tall_minmode"								"60"
@@ -121,7 +121,7 @@
 		"enabled"									"1"
 		"textAlignment"								"center"
 		"labelText"									"%Ammo%"
-		"font"										"Size_40"
+		"font"										"Size_56"
 		"font_minmode"								"Size_50"
 		"fgcolor"									"Ammo_No_Clip"
 
@@ -136,7 +136,7 @@
 		"xpos"										"-1"
 		"ypos"										"-1"
 		"zpos"										"5"
-		"wide"										"80"
+		"wide"										"85"
 		"wide_minmode"								"120"
 		"tall"										"50"
 		"tall_minmode"								"60"
@@ -144,7 +144,7 @@
 		"enabled"									"1"
 		"textAlignment"								"center"
 		"labelText"									"%Ammo%"
-		"font"										"Size_40"
+		"font"										"Size_56"
 		"font_minmode"								"Size_50"
 		"fgcolor"									"Shadows"
 

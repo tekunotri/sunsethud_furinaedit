@@ -37,7 +37,7 @@
 	{
 		"ControlName"								"ImagePanel"
 		"fieldName"									"PlayerStatusHealthBonusImage"
-		"xpos"										"c-255"
+		"xpos"										"c-265"
 		"xpos_minmode"								"c-194"
 		"ypos"										"r170"
 		"ypos_minmode"								"r50"
@@ -59,7 +59,7 @@
 	{
 		"ControlName"								"ImagePanel"
 		"fieldName"									"PlayerStatusHurt"
-		"xpos"										"c-225"
+		"xpos"										"c-265"
 		"xpos_minmode"								"c-194"
 		"ypos"										"r146"
 		"ypos_minmode"								"r50"
@@ -93,7 +93,7 @@
 		"proportionaltoparent"						"1"
 		"labelText"									"%Health%"
 		"textAlignment"								"center"
-		"font"										"Size_40"
+		"font"										"Size_56"
 		"font_minmode"								"Size_50"
 		"fgcolor"									"Health"
 
@@ -118,7 +118,7 @@
 		"proportionaltoparent"						"1"
 		"labelText"									"%Health%"
 		"textAlignment"								"center"
-		"font"										"Size_40"
+		"font"										"Size_56"
 		"font_minmode"								"Size_50"
 		"fgcolor"									"Shadows"
 

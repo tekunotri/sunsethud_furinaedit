@@ -31,7 +31,7 @@
 		"enabled"									"1"
 		"labelText"									"#TF_UberchargeMinHUD"
 		"textAlignment"								"center"
-		"font"										"Size_40_Shadow"
+		"font"										"Size_56_Shadow"
 		"font_minmode"								"Size_50_Shadow"
 		"fgcolor"									"Ubercharge"
 
@@ -55,7 +55,7 @@
 		"enabled"									"1"
 		"labelText"									"#TF_IndividualUberchargesMinHUD"
 		"textAlignment"								"center"
-		"font"										"Size_40_Shadow"
+		"font"										"Size_56_Shadow"
 		"font_minmode"								"Size_50_Shadow"
 		"fgcolor"									"Ubercharge"
 
