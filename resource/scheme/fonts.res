@@ -16,7 +16,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"7"
 				"antialias"									"1"
 			}
@@ -26,7 +26,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"8"
 				"antialias"									"1"
 			}
@@ -36,7 +36,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"9"
 				"antialias"									"1"
 			}
@@ -46,7 +46,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"10"
 				"antialias"									"1"
 			}
@@ -55,7 +55,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"10"
 				"antialias"									"1"
 				"dropshadow"								"1"
@@ -66,7 +66,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"11"
 				"antialias"									"1"
 			}
@@ -75,7 +75,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"11"
 				"antialias"									"1"
 				"dropshadow"								"1"
@@ -86,7 +86,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"12"
 				"antialias"									"1"
 			}
@@ -95,7 +95,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"12"
 				"antialias"									"1"
 				"dropshadow"								"1"
@@ -106,7 +106,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"13"
 				"antialias"									"1"
 			}
@@ -116,7 +116,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"14"
 				"antialias"									"1"
 			}
@@ -126,7 +126,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"14"
 				"antialias"									"1"
 				"dropshadow"								"1"
@@ -137,7 +137,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"15"
 				"antialias"									"1"
 			}
@@ -147,7 +147,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"16"
 				"antialias"									"1"
 			}
@@ -156,7 +156,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"16"
 				"antialias"									"1"
 				"dropshadow"								"1"
@@ -166,7 +166,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"16"
 				"antialias"									"1"
 				"outline"									"1"
@@ -177,7 +177,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"18"
 				"antialias"									"1"
 			}
@@ -186,7 +186,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"18"
 				"antialias"									"1"
 				"dropshadow"								"1"
@@ -197,7 +197,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"20"
 				"antialias"									"1"
 			}
@@ -206,7 +206,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"20"
 				"antialias"									"1"
 				"dropshadow"								"1"
@@ -217,7 +217,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"22"
 				"antialias"									"1"
 			}
@@ -226,7 +226,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"22"
 				"antialias"									"1"
 				"dropshadow"								"1"
@@ -236,7 +236,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"22"
 				"antialias"									"1"
 				"outline"									"1"
@@ -247,7 +247,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"23"
 				"antialias"									"1"
 			}
@@ -257,7 +257,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"24"
 				"antialias"									"1"
 			}
@@ -266,7 +266,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"24"
 				"antialias"									"1"
 				"dropshadow"								"1"
@@ -276,7 +276,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"24"
 				"antialias"									"1"
 				"outline"									"1"
@@ -287,7 +287,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"26"
 				"antialias"									"1"
 			}
@@ -297,7 +297,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"28"
 				"antialias"									"1"
 			}
@@ -306,7 +306,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"28"
 				"antialias"									"1"
 				"dropshadow"								"1"
@@ -316,7 +316,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"28"
 				"antialias"									"1"
 				"outline"									"1"
@@ -327,7 +327,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"30"
 				"antialias"									"1"
 			}
@@ -337,7 +337,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"34"
 				"antialias"									"1"
 			}
@@ -347,7 +347,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"36"
 				"antialias"									"1"
 			}
@@ -357,7 +357,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"40"
 				"antialias"									"1"
 			}
@@ -367,7 +367,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"40"
 				"antialias"									"1"
 				"dropshadow"								"1"
@@ -378,7 +378,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"50"
 				"antialias"									"1"
 			}
@@ -388,7 +388,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"50"
 				"antialias"									"1"
 				"dropshadow"								"1"
@@ -399,7 +399,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"56"
 				"antialias"									"1"
 			}
@@ -409,7 +409,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Numbers"
+				"name"										"DIN-Medium"
 				"tall"										"10"
 				"antialias"									"1"
 				"dropshadow"								"0"
@@ -420,7 +420,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Numbers"
+				"name"										"DIN-Medium"
 				"tall"										"18"
 				"antialias"									"1"
 			}
@@ -430,7 +430,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"6"
 				"antialias"									"1"
 			}
@@ -444,21 +444,21 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"13"
 				"range"										"0x0000 0x017F"
 				"yres"										"480 599"
 			}
 			"2"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"13"
 				"range"										"0x0000 0x017F"
 				"yres"										"600 767"
 			}
 			"3"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"15"
 				"range"										"0x0000 0x017F"
 				"yres"										"768 1023"
@@ -466,7 +466,7 @@
 			}
 			"4"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"20"
 				"range"										"0x0000 0x017F"
 				"yres"										"1024 1199"
@@ -474,14 +474,14 @@
 			}
 			"5"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"9"
 				"range"										"0x0000 0x017F"
 				"antialias"									"1"
 			}
 			"6"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"13"
 				"range"										"0x0000 0x00FF"
 			}
@@ -496,7 +496,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"12"
 				"weight"									"500"
 				"underline"									"1"
@@ -514,21 +514,21 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"12"
 				"range"										"0x0000 0x017F"
 				"yres"										"480 599"
 			}
 			"2"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"13"
 				"range"										"0x0000 0x017F"
 				"yres"										"600 767"
 			}
 			"3"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"14"
 				"range"										"0x0000 0x017F"
 				"yres"										"768 1023"
@@ -536,7 +536,7 @@
 			}
 			"4"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"20"
 				"range"										"0x0000 0x017F"
 				"yres"										"1024 1199"
@@ -544,7 +544,7 @@
 			}
 			"5"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"9"
 				"weight"									"0"
 				"range"										"0x0000 0x017F"
@@ -561,21 +561,21 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"12"
 				"range"										"0x0000 0x017F"
 				"yres"										"480 599"
 			}
 			"2"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"12"
 				"range"										"0x0000 0x017F"
 				"yres"										"600 767"
 			}
 			"3"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"12"
 				"range"										"0x0000 0x017F"
 				"yres"										"768 1023"
@@ -583,7 +583,7 @@
 			}
 			"4"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"14"
 				"range"										"0x0000 0x017F"
 				"yres"										"1024 1199"
@@ -591,7 +591,7 @@
 			}
 			"5"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"9"
 				"range"										"0x0000 0x017F"
 				"antialias"									"1"
@@ -601,7 +601,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"18"
 				"weight"									"900"
 				"range"										"0x0000 0x017F"
@@ -609,7 +609,7 @@
 			}
 			"2"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"21"
 				"weight"									"900"
 				"range"										"0x0000 0x017F"
@@ -617,7 +617,7 @@
 			}
 			"3"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"22"
 				"weight"									"900"
 				"range"										"0x0000 0x017F"
@@ -626,7 +626,7 @@
 			}
 			"4"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"28"
 				"weight"									"900"
 				"range"										"0x0000 0x017F"
@@ -635,7 +635,7 @@
 			}
 			"5"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"18"
 				"weight"									"900"
 				"range"										"0x0000 0x017F"
@@ -643,7 +643,7 @@
 			}
 			"6"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"20"
 				"range"										"0x0000 0x00FF"
 				"weight"									"900"
@@ -672,7 +672,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"6"
 				"weight"									"500"
 				"antialias"									"1"
@@ -682,35 +682,35 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"10"
 				"weight"									"500"
 				"antialias"									"1"
 			}
 			"2"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"13"
 				"weight"									"700"
 				"yres"										"600 767"
 			}
 			"3"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"14"
 				"weight"									"700"
 				"yres"										"768 1023"
 			}
 			"4"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"20"
 				"weight"									"700"
 				"yres"										"1024 1199"
 			}
 			"5"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"12"
 				"weight"									"700"
 				"antialias"									"1"
@@ -720,7 +720,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"24"
 				"weight"									"500"
 				"antialias"									"1"
@@ -728,7 +728,7 @@
 			}
 			"2"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"32"
 				"weight"									"500"
 				"antialias"									"1"
@@ -736,7 +736,7 @@
 			}
 			"3"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"44"
 				"weight"									"500"
 				"antialias"									"1"
@@ -744,7 +744,7 @@
 			}
 			"4"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"48"
 				"weight"									"500"
 				"antialias"									"1"
@@ -752,7 +752,7 @@
 			}
 			"5"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"24"
 				"weight"									"500"
 				"antialias"									"1"
@@ -762,7 +762,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"44"
 				"weight"									"500"
 				"antialias"									"1"
@@ -772,7 +772,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"35"
 				"weight"									"500"
 				"antialias"									"1"
@@ -782,7 +782,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"36"
 				"weight"									"500"
 				"antialias"									"1"
@@ -792,7 +792,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"30"
 				"weight"									"500"
 				"antialias"									"1"
@@ -802,7 +802,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"30"
 				"weight"									"500"
 				"antialias"									"1"
@@ -812,7 +812,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"24"
 				"weight"									"500"
 				"antialias"									"1"
@@ -822,7 +822,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"24"
 				"weight"									"500"
 				"antialias"									"1"
@@ -830,7 +830,7 @@
 			}
 			"2" // Misyl: Proportional
             {
-                "name"        "Surface-Medium"
+                "name"        "DIN-Medium"
                 "tall"        "10"
                 "weight"    "500"
                 "additive"    "0"
@@ -842,7 +842,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"24"
 				"weight"									"500"
 				"antialias"									"1"
@@ -852,7 +852,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"18"
 				"weight"									"500"
 				"antialias"									"1"
@@ -862,7 +862,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"18"
 				"weight"									"500"
 				"antialias"									"1"
@@ -872,7 +872,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"18"
 				"weight"									"500"
 				"antialias"									"1"
@@ -882,7 +882,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"14"
 				"weight"									"500"
 				"antialias"									"1"
@@ -892,7 +892,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"16"
 				"weight"									"500"
 				"antialias"									"1"
@@ -902,7 +902,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"14"
 				"weight"									"500"
 				"antialias"									"1"
@@ -912,7 +912,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"14"
 				"weight"									"500"
 				"antialias"									"1"
@@ -923,7 +923,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"11"
 				"weight"									"500"
 				"antialias"									"1"
@@ -933,7 +933,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"11"
 				"weight"									"500"
 				"antialias"									"1"
@@ -944,7 +944,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"11"
 				"weight"									"500"
 				"antialias"									"1"
@@ -954,7 +954,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"4"
 				"weight"									"500"
 				"antialias"									"1"
@@ -964,7 +964,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"10"
 				"weight"									"500"
 				"antialias"									"1"
@@ -974,7 +974,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"16"
 				"weight"									"500"
 				"antialias"									"1"
@@ -984,7 +984,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"9"
 				"antialias"									"1"
 			}
@@ -993,7 +993,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"9"
 				"antialias"									"1"
 			}
@@ -1002,7 +1002,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"6"
 				"antialias"									"1"
 			}
@@ -1011,7 +1011,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"12"
 				"weight"									"400"
 				"antialias"									"1"
@@ -1021,7 +1021,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"11"
 				"weight"									"500"
 				"antialias"									"1"
@@ -1091,7 +1091,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"18"
 				"weight"									"500"
 				"antialias"									"1"
@@ -1101,7 +1101,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"16"
 				"weight"									"500"
 				"antialias"									"1"
@@ -1111,7 +1111,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"8"
 				"weight"									"500"
 				"antialias"									"1"
@@ -1121,7 +1121,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"9"
 				"weight"									"500"
 				"antialias"									"1"
@@ -1131,7 +1131,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"8"
 				"weight"									"500"
 				"antialias"									"1"
@@ -1141,7 +1141,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"8"
 				"weight"									"500"
 				"antialias"									"1"
@@ -1151,7 +1151,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"15"
 				"weight"									"700"
 				"antialias"									"1"
@@ -1161,7 +1161,7 @@
 			}
 			"2"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"15"
 				"weight"									"700"
 				"antialias"									"1"
@@ -1171,7 +1171,7 @@
 			}
 			"3"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"18"
 				"weight"									"900"
 				"antialias"									"1"
@@ -1180,7 +1180,7 @@
 			}
 			"4"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"21"
 				"weight"									"900"
 				"antialias"									"1"
@@ -1189,7 +1189,7 @@
 			}
 			"5"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"24"
 				"weight"									"1000"
 				"antialias"									"1"
@@ -1249,7 +1249,7 @@
 			}
 			"2"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"28"
 				"additive"									"1"
 				"antialias"									"1"
@@ -1259,7 +1259,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"24"
 				"weight"									"500"
 				"antialias"									"1"
@@ -1269,7 +1269,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"24"
 				"weight"									"500"
 				"antialias"									"1"
@@ -1279,7 +1279,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"24"
 				"weight"									"500"
 				"antialias"									"1"
@@ -1289,7 +1289,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"24"
 				"weight"									"500"
 				"antialias"									"1"
@@ -1299,7 +1299,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"16"
 				"weight"									"500"
 				"antialias"									"1"
@@ -1329,7 +1329,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"24"
 				"antialias"									"1"
 				"weight"									"500"
@@ -1339,7 +1339,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"11"
 				"antialias"									"1"
 				"weight"									"500"
@@ -1349,7 +1349,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"12"
 				"antialias"									"1"
 				"weight"									"500"
@@ -1359,7 +1359,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"13"
 				"weight"									"800"
 				"antialias"									"1"
@@ -1369,7 +1369,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"28"
 				"antialias"									"1"
 				"custom"									"1"		[$OSX]
@@ -1380,7 +1380,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"40"
 				"antialias"									"1"
 				"custom"									"1"		[$OSX]
@@ -1391,7 +1391,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"24"
 				"antialias"									"1"
 				"custom"									"1"		[$OSX]
@@ -1402,7 +1402,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"14"	[!$OSX]
 				"tall"										"15"	[$OSX]
 				"antialias"									"1"
@@ -1414,7 +1414,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"6"
 				"weight"									"400"
 				"antialias"									"1"
@@ -1424,7 +1424,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"8"
 				"weight"									"400"
 				"antialias"									"1"
@@ -1434,7 +1434,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"10"
 				"weight"									"400"
 				"antialias"									"1"
@@ -1444,7 +1444,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"14"
 				"weight"									"500"
 				"range"										"0x0000 0x007F"
@@ -1455,7 +1455,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"20"
 				"weight"									"500"
 				"range"										"0x0000 0x007F"
@@ -1466,7 +1466,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"20"
 				"weight"									"500"
 				"range"										"0x0000 0x007F"
@@ -1477,7 +1477,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"14"
 				"weight"									"500"
 				"range"										"0x0000 0x007F"
@@ -1488,7 +1488,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"20"
 				"weight"									"500"
 				"range"										"0x0000 0x007F"
@@ -1499,7 +1499,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"34"
 				"weight"									"500"
 				"range"										"0x0000 0x007F"
@@ -1510,7 +1510,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"36"
 				"weight"									"500"
 				"antialias"									"1"
@@ -1520,7 +1520,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"52"
 				"range"										"0x0000 0x00FF"
 				"weight"									"400"
@@ -1529,7 +1529,7 @@
 			}
 			"2"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"72"
 				"range"										"0x0000 0x00FF"
 				"weight"									"400"
@@ -1538,7 +1538,7 @@
 			}
 			"3"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"100"
 				"range"										"0x0000 0x00FF"
 				"weight"									"400"
@@ -1547,7 +1547,7 @@
 			}
 			"4"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"140"
 				"range"										"0x0000 0x00FF"
 				"weight"									"400"
@@ -1556,7 +1556,7 @@
 			}
 			"5"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"180"
 				"range"										"0x0000 0x00FF"
 				"weight"									"400"
@@ -1568,7 +1568,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"36"
 				"weight"									"500"
 				"range"										"0x0000 0x007F"
@@ -1579,7 +1579,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"14"
 				"weight"									"400"
 				"antialias"									"1"
@@ -1589,7 +1589,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"20"
 				"weight"									"400"
 				"antialias"									"1"
@@ -1599,7 +1599,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"14"
 				"weight"									"400"
 				"antialias"									"1"
@@ -1609,7 +1609,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"10"
 				"weight"									"400"
 				"antialias"									"1"
@@ -1619,7 +1619,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"7"
 				"weight"									"400"
 				"antialias"									"1"
@@ -1629,7 +1629,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"10"
 				"weight"									"400"
 				"antialias"									"1"
@@ -1639,35 +1639,35 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"12"
 				"weight"									"700"
 				"yres"										"480 599"
 			}
 			"2"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"13"
 				"weight"									"700"
 				"yres"										"600 767"
 			}
 			"3"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"14"
 				"weight"									"700"
 				"yres"										"768 1023"
 			}
 			"4"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"20"
 				"weight"									"700"
 				"yres"										"1024 1199"
 			}
 			"5"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"24"
 				"weight"									"700"
 				"yres"										"1200 10000"
@@ -1677,7 +1677,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"12"
 				"weight"									"700"
 				"yres"										"480 599"
@@ -1685,7 +1685,7 @@
 			}
 			"2"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"13"
 				"weight"									"700"
 				"yres"										"600 767"
@@ -1693,7 +1693,7 @@
 			}
 			"3"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"14"
 				"weight"									"700"
 				"yres"										"768 1023"
@@ -1701,7 +1701,7 @@
 			}
 			"4"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"20"
 				"weight"									"700"
 				"yres"										"1024 1199"
@@ -1709,7 +1709,7 @@
 			}
 			"5"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"24"
 				"weight"									"700"
 				"yres"										"1200 10000"
@@ -1720,7 +1720,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"10"
 				"weight"									"700"
 				"yres"										"480 599"
@@ -1728,7 +1728,7 @@
 			}
 			"2"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"10"
 				"weight"									"700"
 				"yres"										"600 767"
@@ -1736,7 +1736,7 @@
 			}
 			"3"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"13"
 				"weight"									"700"
 				"yres"										"768 1023"
@@ -1744,7 +1744,7 @@
 			}
 			"4"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"14"
 				"weight"									"700"
 				"yres"										"1024 1199"
@@ -1752,7 +1752,7 @@
 			}
 			"5"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"15"
 				"weight"									"700"
 				"yres"										"1200 10000"
@@ -1774,7 +1774,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"14"
 				"range"										"0x0000 0x00FF"
 				"weight"									"300"
@@ -1785,7 +1785,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"12"
 				"weight"									"500"
 				"range"										"0x0000 0x017F"
@@ -1797,7 +1797,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"8"
 				"weight"									"500"
 				"range"										"0x0000 0x017F"
@@ -1809,7 +1809,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"8"
 				"additive"									"1"
 				"antialias"									"1"
@@ -1819,7 +1819,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"9"
 				"weight"									"400"
 				"antialias"									"1"
@@ -1829,7 +1829,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"11"	[!$OSX]
 				"tall"										"9"		[$OSX]
 				"weight"									"800"
@@ -1840,7 +1840,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"36"
 				"weight"									"500"
 			}
@@ -1849,7 +1849,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"30"
 				"weight"									"500"
 			}
@@ -1858,7 +1858,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"28"
 				"weight"									"500"
 			}
@@ -1885,7 +1885,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"22"
 				"weight"									"500"
 			}
@@ -1894,7 +1894,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"18"
 				"weight"									"500"
 			}
@@ -1903,7 +1903,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"22"
 				"weight"									"900"
 			}
@@ -1912,7 +1912,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"18"
 				"weight"									"900"
 			}
@@ -1921,7 +1921,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"15"
 				"weight"									"900"
 			}
@@ -1930,7 +1930,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"36"
 				"weight"									"500"
 				"antialias"									"1"
@@ -1940,7 +1940,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"11"
 				"weight"									"600"
 				"antialias"									"1"
@@ -1950,7 +1950,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"18"
 				"weight"									"400"
 				"antialias"									"1"
@@ -1970,7 +1970,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"10"
 				"weight"									"600"
 				"antialias"									"1"
@@ -1980,7 +1980,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"10"
 				"weight"									"500"
 				"antialias"									"1"
@@ -1990,7 +1990,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"8"
 				"weight"									"400"
 				"antialias"									"1"
@@ -2001,7 +2001,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"10"
 				"range"										"0x0000 0x017F"
 				"yres"										"480 599"
@@ -2009,7 +2009,7 @@
 			}
 			"2"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"12"
 				"range"										"0x0000 0x017F"
 				"yres"										"600 1199"
@@ -2017,7 +2017,7 @@
 			}
 			"3"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"15"
 				"range"										"0x0000 0x017F"
 				"yres"										"1200 6000"
@@ -2028,7 +2028,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"8"
 				"weight"									"0"
 				"antialias"									"1"
@@ -2038,7 +2038,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"9"
 				"weight"									"0"
 				"antialias"									"1"
@@ -2048,7 +2048,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"12"
 				"weight"									"0"
 				"antialias"									"1"
@@ -2058,7 +2058,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"18"
 				"weight"									"0"
 				"antialias"									"1"
@@ -2068,7 +2068,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"7"
 				"weight"									"0"
 				"antialias"									"1"
@@ -2078,7 +2078,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"8"
 				"antialias"									"1"
 				"weight"									"0"
@@ -2088,7 +2088,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"8"
 				"weight"									"0"
 				"antialias"									"1"
@@ -2098,7 +2098,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"11"
 				"weight"									"0"
 				"antialias"									"1"
@@ -2108,7 +2108,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"14"
 				"weight"									"0"
 				"antialias"									"1"
@@ -2118,7 +2118,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"9"
 				"weight"									"500"
 				"antialias"									"1"
@@ -2128,7 +2128,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"9"
 				"weight"									"500"
 				"blur"										"3"
@@ -2140,7 +2140,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"7"
 				"additive"									"1"
 				"antialias"									"1"
@@ -2150,7 +2150,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"7"
 				"additive"									"1"
 				"antialias"									"1"
@@ -2160,7 +2160,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"7"
 				"antialias"									"1"
 			}
@@ -2169,7 +2169,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"7"
 				"blur"										"3"
 				"additive"									"1"
@@ -2180,7 +2180,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"7"
 				"antialias"									"1"
 			}
@@ -2189,7 +2189,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"10"
 				"weight"									"400"
 				"yres"										"480 599"
@@ -2197,7 +2197,7 @@
 			}
 			"2"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"14"
 				"weight"									"400"
 				"yres"										"600 1023"
@@ -2205,7 +2205,7 @@
 			}
 			"3"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"18"
 				"weight"									"400"
 				"yres"										"1024 6000"
@@ -2216,7 +2216,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"10"
 				"weight"									"800"
 				"yres"										"480 599"
@@ -2224,7 +2224,7 @@
 			}
 			"2"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"14"
 				"weight"									"800"
 				"yres"										"600 1023"
@@ -2232,7 +2232,7 @@
 			}
 			"3"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"18"
 				"weight"									"800"
 				"yres"										"1024 6000"
@@ -2243,7 +2243,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"16"
 				"weight"									"400"
 				"antialias"									"1"
@@ -2253,7 +2253,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"20"
 				"antialias"									"1"
 				"custom"									"1"		[$OSX]
@@ -2264,7 +2264,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"10"
 				"weight"									"400"
 				"yres"										"480 599"
@@ -2272,7 +2272,7 @@
 			}
 			"2"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"14"
 				"weight"									"400"
 				"yres"										"600 1023"
@@ -2280,7 +2280,7 @@
 			}
 			"3"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"22"
 				"weight"									"400"
 				"yres"										"1024 6000"
@@ -2291,7 +2291,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"10"
 				"weight"									"400"
 				"yres"										"480 599"
@@ -2300,7 +2300,7 @@
 			}
 			"2"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"14"
 				"weight"									"400"
 				"yres"										"600 1023"
@@ -2309,7 +2309,7 @@
 			}
 			"3"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"22"
 				"weight"									"400"
 				"yres"										"1024 6000"
@@ -2321,7 +2321,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"10"
 				"weight"									"800"
 				"yres"										"480 599"
@@ -2329,7 +2329,7 @@
 			}
 			"2"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"14"
 				"weight"									"800"
 				"yres"										"600 1023"
@@ -2337,7 +2337,7 @@
 			}
 			"3"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"18"
 				"weight"									"800"
 				"yres"										"1024 6000"
@@ -2348,7 +2348,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"13"
 				"weight"									"400"
 				"antialias"									"1"
@@ -2358,7 +2358,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"16"
 				"weight"									"400"
 				"antialias"									"1"
@@ -2368,7 +2368,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"10"
 				"weight"									"400"
 				"antialias"									"1"
@@ -2378,7 +2378,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"8"
 				"weight"									"400"
 				"antialias"									"1"
@@ -2388,7 +2388,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"8"
 				"antialias"									"1"
 			}
@@ -2397,7 +2397,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"8"
 				"weight"									"400"
 				"antialias"									"1"
@@ -2419,21 +2419,21 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"12"
 				"range"										"0x0000 0x017F"
 				"yres"										"480 599"
 			}
 			"2"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"12"
 				"range"										"0x0000 0x017F"
 				"yres"										"600 767"
 			}
 			"3"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"12"
 				"range"										"0x0000 0x017F"
 				"yres"										"768 1023"
@@ -2441,7 +2441,7 @@
 			}
 			"4"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"14"
 				"range"										"0x0000 0x017F"
 				"yres"										"1024 1199"
@@ -2449,7 +2449,7 @@
 			}
 			"5"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"16"
 				"range"										"0x0000 0x017F"
 				"yres"										"1200 6000"
@@ -2460,7 +2460,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"11"
 				"weight"									"500"
 				"antialias"									"1"
@@ -2470,21 +2470,21 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"12"
 				"range"										"0x0000 0x017F"
 				"yres"										"480 599"
 			}
 			"2"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"13"
 				"range"										"0x0000 0x017F"
 				"yres"										"600 767"
 			}
 			"3"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"14"
 				"range"										"0x0000 0x017F"
 				"yres"										"768 1023"
@@ -2492,7 +2492,7 @@
 			}
 			"4"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"20"
 				"range"										"0x0000 0x017F"
 				"yres"										"1024 1199"
@@ -2500,7 +2500,7 @@
 			}
 			"5"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"22"
 				"range"										"0x0000 0x017F"
 				"yres"										"1200 6000"
@@ -2517,7 +2517,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"11"
 				"weight"									"500"
 				"antialias"									"1"
@@ -2527,7 +2527,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"14"
 				"weight"									"500"
 				"antialias"									"1"
@@ -2537,7 +2537,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"18"
 				"weight"									"500"
 				"antialias"									"1"
@@ -2547,7 +2547,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"24"
 				"weight"									"500"
 				"antialias"									"1"
@@ -2557,7 +2557,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"18"
 				"weight"									"500"
 				"antialias"									"1"
@@ -2568,7 +2568,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"14"
 				"weight"									"500"
 				"antialias"									"1"
@@ -2578,7 +2578,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"24"
 				"weight"									"500"
 				"antialias"									"1"
@@ -2588,7 +2588,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"15"
 				"weight"									"500"
 				"range"										"0x0000 0x007F"
@@ -2599,7 +2599,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"9"
 				"weight"									"400"
 				"antialias"									"1"
@@ -2609,7 +2609,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"11"
 				"weight"									"500"
 				"antialias"									"1"
@@ -2619,7 +2619,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"11"
 				"weight"									"500"
 				"blur"										"3"
@@ -2631,7 +2631,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"12"
 				"weight"									"500"
 				"antialias"									"1"
@@ -2642,7 +2642,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"7"
 				"blur"										"3"
 				"additive"									"1"
@@ -2653,7 +2653,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"7"
 				"weight"									"400"
 				"antialias"									"1"
@@ -2663,7 +2663,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"10"
 				"weight"									"400"
 				"antialias"									"1"
@@ -2673,7 +2673,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"14"
 				"weight"									"400"
 				"antialias"									"1"
@@ -2683,7 +2683,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"DIN-Medium"
 				"tall"										"30"
 				"weight"									"400"
 				"antialias"									"1"
@@ -2812,20 +2812,15 @@
 				"range"	"0x0000 0x007E"
 			}
 		}
-		"10"
-		{
-			"font"	"resource/scheme/fonts/surface_medium.otf"				[$WINDOWS]
-			"name"	"Surface-Medium"
-		}
-		"11"
-		{
-			"font"	"resource/scheme/fonts/surface_numbers.otf"		[$WINDOWS]
-			"name"	"Surface-Numbers"
-		}
-		"12"
+		"8"
 		{
 			"font"	"resource/scheme/fonts/product.ttf"
 			"name"	"Product Sans"
+		}
+		"9"
+		{
+			"font"	"resource/scheme/fonts/din_medium.otf"		[$WINDOWS]
+			"name"	"DIN-Medium"
 		}
 	}
 }
