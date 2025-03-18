@@ -1,6 +1,6 @@
 # sunsethud-furina
 
-i didnt make this, but its my personal edit
+original edit by esper
 
 ## bg sources
 
