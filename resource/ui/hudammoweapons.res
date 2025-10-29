@@ -31,8 +31,8 @@
 		"enabled"									"1"
 		"textAlignment"								"east"
 		"labelText"									"%Ammo%"
-		"font"										"Size_56"
-		"font_minmode"								"Size_50"
+		"font"										"Size_50"
+		"font_minmode"								"Size_40"
 		"fgcolor"									"Ammo_In_Clip"
 
 		"pin_to_sibling"							"AmmoAnchor"
@@ -54,8 +54,8 @@
 		"enabled"									"1"
 		"textAlignment"								"east"
 		"labelText"									"%Ammo%"
-		"font"										"Size_56"
-		"font_minmode"								"Size_50"
+		"font"										"Size_50"
+		"font_minmode"								"Size_40"
 		"fgcolor"									"Shadows"
 
 		"pin_to_sibling"							"AmmoInClip"
@@ -121,8 +121,8 @@
 		"enabled"									"1"
 		"textAlignment"								"center"
 		"labelText"									"%Ammo%"
-		"font"										"Size_56"
-		"font_minmode"								"Size_50"
+		"font"										"Size_50"
+		"font_minmode"								"Size_40"
 		"fgcolor"									"Ammo_No_Clip"
 
 		"pin_to_sibling"							"AmmoAnchor"
@@ -144,8 +144,8 @@
 		"enabled"									"1"
 		"textAlignment"								"center"
 		"labelText"									"%Ammo%"
-		"font"										"Size_56"
-		"font_minmode"								"Size_50"
+		"font"										"Size_50"
+		"font_minmode"								"Size_40"
 		"fgcolor"									"Shadows"
 
 		"pin_to_sibling"							"AmmoNoClip"

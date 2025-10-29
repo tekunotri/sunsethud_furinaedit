@@ -28,7 +28,7 @@
 		"title"										"#CharInfoAndSetup"
 		"title_font"								""
 		"titletextinsetX"							"40"
-		"titletextinsetY"							"10"
+		"titletextinsetY"							"6"
 		"titlebarfgcolor_override"					"Blank"
 		"titlebardisabledfgcolor_override"			"Blank"
 		"titlebarbgcolor_override"					"Blank"
@@ -74,7 +74,7 @@
 		"ypos"										"-5"
 		"zpos"										"0"
 		"wide"										"p1.02"
-		"tall"										"25"
+		"tall"										"20"
 		"visible"									"1"
 		"enabled"									"1"
 		"border"									"Theme_Transparent_30"
@@ -116,7 +116,7 @@
 		"tabheight"									"18"
 		"tabxfittotext"								"1"
 		"transition_time"							"0"
-		"yoffset"									"13"
+		"yoffset"									"0"
 
 		"HeaderLine"
 		{

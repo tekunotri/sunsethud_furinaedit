@@ -93,8 +93,8 @@
 		"proportionaltoparent"						"1"
 		"labelText"									"%Health%"
 		"textAlignment"								"center"
-		"font"										"Size_56"
-		"font_minmode"								"Size_50"
+		"font"										"Size_50"
+		"font_minmode"								"Size_40"
 		"fgcolor"									"Health"
 
 		"pin_to_sibling"							"HealthAnchor"
@@ -118,8 +118,8 @@
 		"proportionaltoparent"						"1"
 		"labelText"									"%Health%"
 		"textAlignment"								"center"
-		"font"										"Size_56"
-		"font_minmode"								"Size_50"
+		"font"										"Size_50"
+		"font_minmode"								"Size_40"
 		"fgcolor"									"Shadows"
 
 		"pin_to_sibling"							"PlayerStatusHealthValue"

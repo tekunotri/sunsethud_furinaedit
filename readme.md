@@ -1,6 +1,8 @@
 # sunsethud-furina
 
-original edit by esper
+original edit by esper, this branch is just my personal version
+
+original edit as uploaded is in the `original` branch
 
 ## bg sources
 
